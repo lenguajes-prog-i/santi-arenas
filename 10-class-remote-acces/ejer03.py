@@ -14,7 +14,7 @@ objeto_auto = Auto("Mazda", "ABC123")
 objeto_auto1 = Auto("Mazda1", "ABC153")
 objeto_auto2 = Auto("Mazda2", "ABC113")
 objeto_auto3 = Auto("Mazda3", "ABC143")
-objeto_auto4 = Auto("Mazda3", "ABC124")
+objeto_auto4 = Auto("Mazda4", "ABC124")
 
 autos = [objeto_auto, objeto_auto1, objeto_auto2, objeto_auto3, objeto_auto4]
 
